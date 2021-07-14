@@ -4,7 +4,7 @@ This is a simple nginx type server in C language, which hosts a simple sign-in p
 
 To run this server, first clone this repo using
 
-git clone https://github.com/nike0503/NGNIX-based-Server-in-C.git
+git clone https://github.com/AtulUmak/Mini-Web-Server.git
 
 Then compile the C-program,
 
